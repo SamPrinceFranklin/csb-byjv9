@@ -1,0 +1,2 @@
+(this["webpackJsonpvitrrndz-chennai"]=this["webpackJsonpvitrrndz-chennai"]||[]).push([[0],{10:function(n,e,t){"use strict";t.r(e);var c=t(1),i=t(3),r=t.n(i),s=(t(8),t(0));function d(){return Object(s.jsxs)("div",{className:"App",children:[Object(s.jsx)("h1",{children:"VITrendz_Chennai"}),Object(s.jsx)("h2",{children:"Initial Commit"})]})}var h=document.getElementById("root");r.a.render(Object(s.jsx)(c.StrictMode,{children:Object(s.jsx)(d,{})}),h)},8:function(n,e,t){}},[[10,1,2]]]);
+//# sourceMappingURL=main.2c1ae17e.chunk.js.map

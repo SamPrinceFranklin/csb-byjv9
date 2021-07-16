@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://samprincefranklin.github.io/csb-byjv9/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://samprincefranklin.github.io/csb-byjv9/static/js/main.2c1ae17e.chunk.js",
+    "main.js.map": "https://samprincefranklin.github.io/csb-byjv9/static/js/main.2c1ae17e.chunk.js.map",
+    "runtime-main.js": "https://samprincefranklin.github.io/csb-byjv9/static/js/runtime-main.9b793def.js",
+    "runtime-main.js.map": "https://samprincefranklin.github.io/csb-byjv9/static/js/runtime-main.9b793def.js.map",
+    "static/js/2.c1f2cf62.chunk.js": "https://samprincefranklin.github.io/csb-byjv9/static/js/2.c1f2cf62.chunk.js",
+    "static/js/2.c1f2cf62.chunk.js.map": "https://samprincefranklin.github.io/csb-byjv9/static/js/2.c1f2cf62.chunk.js.map",
+    "index.html": "https://samprincefranklin.github.io/csb-byjv9/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://samprincefranklin.github.io/csb-byjv9/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.c1f2cf62.chunk.js.LICENSE.txt": "https://samprincefranklin.github.io/csb-byjv9/static/js/2.c1f2cf62.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b793def.js",
+    "static/js/2.c1f2cf62.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.2c1ae17e.chunk.js"
+  ]
+}
